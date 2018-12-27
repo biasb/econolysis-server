@@ -1,2 +1,2 @@
 # econolysis-server
-Aconomy Analysis Server
+Economy Analysis Server
